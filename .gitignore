@@ -1,0 +1,9 @@
+# JMeter
+*.log
+*.jtl
+jmeter.log
+*.csv
+*.xml
+!*.jmx
+target/
+results/
